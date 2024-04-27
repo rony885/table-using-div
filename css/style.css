@@ -1,0 +1,168 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.style{
+    height: 800px;
+    width: 800px;
+    background-color: aquamarine;
+    margin: 0 auto;
+}
+.one{
+    height: 200px;
+    width: 100%;
+    background-color: blueviolet;
+}
+.two{
+    height: 200px;
+    width: 100%;
+    background-color: burlywood;
+}
+.three{
+    height: 200px;
+    width: 100%;
+    background-color: cadetblue;
+}
+.four{
+    height: 200px;
+    width: 100%;
+    background-color: coral;
+}
+.one .five{
+    height: 200px;
+    width: 25%;
+    background-color: gold;
+    float: left;
+}
+.one .six{
+    height: 200px;
+    width: 25%;
+    background-color: chocolate;
+    float: left;
+}
+.one .seven{
+    height: 200px;
+    width: 25%;
+    background-color: crimson;
+    float: left;
+}
+.one .eight{
+    height: 200px;
+    width: 25%;
+    background-color: chartreuse;
+    float: left;
+}
+.two .nine{
+    height: 200px;
+    width: 25%;
+    background-color: darkgoldenrod;
+    float:left
+}
+.two .ten{
+    height: 200px;
+    width: 25%;
+    background-color: darkgreen;
+    float: left;
+}
+.two .eleven{
+    height: 200px;
+    width: 25%;
+    background-color: darkolivegreen;
+    float: left;
+}
+.two .twelve{
+    height: 200px;
+    width: 25%;
+    background-color: darksalmon;
+    float: left;
+}
+.three .thirteen{
+    height: 200px;
+    width: 25%;
+    background-color: darkslateblue;
+    float: left;
+}
+.three .fiveteen{
+    height: 200px;
+    width: 25%;
+    background-color: darkorange;
+    float:left
+}
+.three .sixteen{
+    height: 200px;
+    width: 25%;
+    background-color: deeppink;
+    float:left
+}
+.three .eighteen{
+    height: 200px;
+    width: 25%;
+    background-color: dimgray;
+    float:left
+}
+.four .nineteen{
+    height: 200px;
+    width: 25%;
+    background-color: firebrick;
+    float: left;
+}
+.four .tweenty{
+    height: 200px;
+    width: 25%;
+    background-color: mediumseagreen;
+    float:left;
+}
+.four .tweentyone{
+    height: 200px;
+    width: 25%;
+    background-color: plum;
+    float: left;
+}
+.four .tweentytwo{
+    height: 200px;
+    width: 25%;
+    background-color: yellowgreen;
+    float: left;
+}
+.four .tweentytwo .tweenthree{
+    height: 100px;
+    width: 100%;
+    background-color: darkolivegreen;
+    float: left;
+}
+.four .tweentytwo .tweenfour{
+    height: 100px;
+    width: 100%;
+    background-color: darkslateblue;
+    float: left;
+}
+.four .tweentytwo .tweenthree .tweenfive{
+    height: 100px;
+    width: 50%;
+    background-color: blueviolet;
+    float: left;
+}
+.four .tweentytwo .tweenthree .tweensix{
+    height: 100px;
+    width: 50%;
+    background-color: crimson;
+    float: left;
+}
+.four .tweentytwo .tweenfour .tweenseven{
+    height: 100px;
+    width: 50%;
+    background-color: blue;
+    float: left;
+}
+.four .tweentytwo .tweenfour .tweenseven{
+    height: 100px;
+    width: 50%;
+    background-color: darkcyan;
+    float: left;
+}
+.four .tweentytwo .tweenfour .tweeneight{
+    height: 100px;
+    width: 50%;
+    background-color: greenyellow;
+    float: left;
+}
